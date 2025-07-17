@@ -152,13 +152,13 @@ sup {
 }
 
 a {
-  color: #2878EB;
+  color: #ffffff;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #1154b6;
+  color: #fabf00;
   text-decoration: underline;
 }
 
@@ -422,7 +422,7 @@ h6, .h6 {
 }
 
 .display-1 {
-  font-size: 6rem;
+  font-size: 4.5rem;
   font-weight: 300;
   line-height: 1.2;
 }
@@ -9806,7 +9806,7 @@ h6,
 }
 
 .jumbotron.page-header {
-  background: linear-gradient(rgba(40, 120, 235, 0.9), rgba(40, 120, 235, 0.9)), url(../img/page-header.jpg), no-repeat center center;
+ background: linear-gradient(rgb(32 33 35 / 90%), rgb(17 17 17 / 90%)), url(../img/header.jpg), no-repeat center center;
   background-size: cover;
 }
 

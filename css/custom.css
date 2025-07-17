@@ -1,3 +1,8 @@
+.footer-text-hover:hover {
+  color: #f0f0f0 !important;
+  cursor: pointer;
+}
+
 @media (max-width: 600px) {
   .mbl-view-vid-1{
     width: 355px !important;
